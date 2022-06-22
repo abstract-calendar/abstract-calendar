@@ -2,15 +2,15 @@
 ### abstract-calendar
 ### Hi there 👋
 ### 可进行再编辑日历
-##安装下载
-##快速使用
-##快速使用
+## 安装下载
+## 快速使用
+## 快速使用
 简单接入的文档
 —— 使用文档
 —— 二次开发文档
-##交流&提问
+## 交流&提问
 https://github.com/abstract-calendar/abstract-calendar/issues
-##关于作者
+## 关于作者
 —— 个人主页
 —— 收款二维码
 <!--
