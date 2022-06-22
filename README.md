@@ -2,6 +2,17 @@
 ### abstract-calendar
 ### Hi there 👋
 ### 可进行再编辑日历
+##安装下载
+##快速使用
+##快速使用
+简单接入的文档
+—— 使用文档
+—— 二次开发文档
+##交流&提问
+https://github.com/abstract-calendar/abstract-calendar/issues
+##关于作者
+—— 个人主页
+—— 收款二维码
 <!--
 **abstract-calendar/abstract-calendar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,14 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###安装下载
-###快速使用
-###快速使用
-简单接入的文档
-—— 使用文档
-—— 二次开发文档
-###交流&提问
-https://github.com/abstract-calendar/abstract-calendar/issues
-###关于作者
-—— 个人主页
-—— 收款二维码
+
